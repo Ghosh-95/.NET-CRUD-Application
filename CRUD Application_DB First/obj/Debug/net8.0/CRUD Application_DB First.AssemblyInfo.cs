@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUD Application_DB First")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82f4d5ddc48329248b87ea7ed20780af38d91b57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb2a98a727c4a1b3aa453172fea61af6395d9b0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUD Application_DB First")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUD Application_DB First")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

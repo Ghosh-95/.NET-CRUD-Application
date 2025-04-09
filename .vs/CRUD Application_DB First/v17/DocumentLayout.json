@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|solutionrelative:crud application_db first\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|c:\\users\\sushovanghosh\\desktop\\.net-crud-application\\crud application_db first\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|solutionrelative:crud application_db first\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|c:\\users\\sushovanghosh\\desktop\\.net-crud-application\\crud application_db first\\models\\mylocaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|solutionrelative:crud application_db first\\models\\mylocaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,8 +19,40 @@
       "RelativeMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|solutionrelative:crud application_db first\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|c:\\users\\sushovanghosh\\desktop\\.net-crud-application\\crud application_db first\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|solutionrelative:crud application_db first\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|c:\\users\\sushovanghosh\\desktop\\.net-crud-application\\crud application_db first\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|solutionrelative:crud application_db first\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|c:\\users\\sushovanghosh\\desktop\\.net-crud-application\\crud application_db first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|solutionrelative:crud application_db first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|c:\\users\\sushovanghosh\\desktop\\.net-crud-application\\crud application_db first\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|solutionrelative:crud application_db first\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|c:\\users\\sushovanghosh\\desktop\\.net-crud-application\\crud application_db first\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|solutionrelative:crud application_db first\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|c:\\users\\sushovanghosh\\desktop\\.net-crud-application\\crud application_db first\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|solutionrelative:crud application_db first\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|c:\\users\\sushovanghosh\\desktop\\.net-crud-application\\crud application_db first\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|solutionrelative:crud application_db first\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|c:\\users\\sushovanghosh\\desktop\\.net-crud-application\\crud application_db first\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|solutionrelative:crud application_db first\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|c:\\users\\sushovanghosh\\desktop\\.net-crud-application\\crud application_db first\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|solutionrelative:crud application_db first\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C738305-08B4-4EE1-9E04-0583E085E906}|CRUD Application_DB First\\CRUD Application_DB First.csproj|c:\\users\\sushovanghosh\\desktop\\.net-crud-application\\crud application_db first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -38,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +74,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD Application_DB First\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CRUD Application_DB First\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T06:10:03.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "CRUD Application_DB First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "CRUD Application_DB First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AgIAAMgSAAAAAAAAAAAiwAkTAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-09T06:04:35.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "CRUD Application_DB First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "CRUD Application_DB First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAA4MAAAAAAAAAAAAACoMAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-09T05:58:01.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "CRUD Application_DB First\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "CRUD Application_DB First\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-09T05:57:46.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CRUD Application_DB First\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CRUD Application_DB First\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-09T05:57:39.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD Application_DB First\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUD Application_DB First\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T05:50:45.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD Application_DB First\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CRUD Application_DB First\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T05:50:42.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\Views\\Home\\Delete.cshtml",
               "RelativeDocumentMoniker": "CRUD Application_DB First\\Views\\Home\\Delete.cshtml",
               "ToolTip": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\Views\\Home\\Delete.cshtml",
               "RelativeToolTip": "CRUD Application_DB First\\Views\\Home\\Delete.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-08T12:22:23.787Z",
               "EditorCaption": ""
@@ -65,14 +184,14 @@
               "RelativeDocumentMoniker": "CRUD Application_DB First\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CRUD Application_DB First\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAQwHsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAUwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T11:24:59.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\Program.cs",
               "RelativeDocumentMoniker": "CRUD Application_DB First\\Program.cs",
@@ -85,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\appsettings.json",
               "RelativeDocumentMoniker": "CRUD Application_DB First\\appsettings.json",
@@ -98,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\Models\\Student.cs",
               "RelativeDocumentMoniker": "CRUD Application_DB First\\Models\\Student.cs",
@@ -111,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "CRUD Application_DB First\\Models\\Employee.cs",
@@ -124,13 +243,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MyLocalDbContext.cs",
               "DocumentMoniker": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\Models\\MyLocalDbContext.cs",
               "RelativeDocumentMoniker": "CRUD Application_DB First\\Models\\MyLocalDbContext.cs",
               "ToolTip": "C:\\Users\\SushovanGhosh\\Desktop\\.NET-CRUD-Application\\CRUD Application_DB First\\Models\\MyLocalDbContext.cs",
               "RelativeToolTip": "CRUD Application_DB First\\Models\\MyLocalDbContext.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA4wA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T06:40:34.835Z",
               "EditorCaption": ""

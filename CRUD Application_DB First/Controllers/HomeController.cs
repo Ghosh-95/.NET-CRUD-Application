@@ -44,14 +44,24 @@ namespace CRUD_Application_DB_First.Controllers
         }
 
         // POST: Home/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,FullName,Class,Section")] Student student)
         {
             if (ModelState.IsValid)
             {
+                // Check if a student with the same name, class, and section already exists
+                bool isDuplicate = await _context.Students.AnyAsync(s =>
+                    s.FullName == student.FullName &&
+                    s.Class == student.Class &&
+                    s.Section == student.Section);
+
+                if (isDuplicate)
+                {
+                    // Return a partial view with the error message for a popup
+                    return PartialView("_DuplicateErrorPopup", "A student with the same name already exists in this class and section.");
+                }
+
                 _context.Add(student);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
